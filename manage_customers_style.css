@@ -59,7 +59,7 @@ input[type=text] {
 
 button[id="search"] {
     font-family: Roboto-Regular;
-    background: url(images/search.png) no-repeat;
+    background: url(https://bankingwithphp.blob.core.windows.net/images/search.png) no-repeat;
     background-color: white;
     cursor: pointer;
     width: 55px;
@@ -118,7 +118,7 @@ select {
     font-family: OpenSans-Regular;
     color: #212121;
     font-size: 24px;
-    background: url("images/down_arrow.png") 96% / 15% no-repeat #eee;
+    background: url("https://bankingwithphp.blob.core.windows.net/images/down_arrow.png") 96% / 15% no-repeat #eee;
     -webkit-appearance: none;
     -moz-appearance: none;
     background-color: white;
@@ -277,7 +277,7 @@ p[id="none"] {
 
 /* Dropdown Button */
 .dropbtn {
-    background: url("images/menu.png") no-repeat;
+    background: url("https://bankingwithphp.blob.core.windows.net/images/menu.png") no-repeat;
     margin-left: 10px;
     margin-top: 10px;
     padding-top: 46px;

@@ -126,7 +126,7 @@ input[type=radio] {
 }
 
 label[id="radio-label"] {
-	background: url("images/radio_button_unchecked.png") left top no-repeat;
+	background: url("https://bankingwithphp.blob.core.windows.net/images/radio_button_unchecked.png") left top no-repeat;
 	
 display: block;
 	min-height: 25px;
@@ -134,7 +134,7 @@ display: block;
 }
 
 input[type=radio]:checked + label {
-	background: url("images/radio_button_checked.png")
+	background: url("https://bankingwithphp.blob.core.windows.net/images/radio_button_checked.png")
  left top no-repeat;
 }
 
@@ -161,7 +161,7 @@ select {
     color: #212121;
     font-size: 20px;
  
-   background: url("images/down_arrow.png") 96% / 15% no-repeat #eee;
+   background: url("https://bankingwithphp.blob.core.windows.net/images/down_arrow.png") 96% / 15% no-repeat #eee;
     -webkit-appearance: none;
     -moz-appearance: none;
  

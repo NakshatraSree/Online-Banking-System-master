@@ -18,7 +18,7 @@
                   you’re down here with me, you’ll float, too–'</h3>
             </div>
           
-  <img id="eEgg_image" src="/images/pennywise.jpg">
+  <img id="eEgg_image" src="https://bankingwithphp.blob.core.windows.net/images/pennywise.jpg">
             <div class="caption" style="border-radius: 0 0 5px 5px;">
            
      <h3 id="footer" style="text-align:center;">Going back in 20s...</h3>
